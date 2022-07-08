@@ -1,6 +1,11 @@
 # plugin-select
 
-### this application is written in pure javascript 
+this application is written in pure javascript 
+
+## Stack
+- js
+- css
+- html
 
 -------
 
